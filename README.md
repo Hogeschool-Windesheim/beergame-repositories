@@ -16,3 +16,16 @@ List of Possible Beer game Repositories
 [1]: https://github.com/richelbilderbeek/beer_sim?utm_source=chatgpt.com "richelbilderbeek/beer_sim: Beer simulator game - GitHub"
 [2]: https://github.com/MartinMxn/Beer-game?utm_source=chatgpt.com "MartinMxn/Beer-game: Supply chain simulation game ... - GitHub"
 [3]: https://github.com/wirelessr/beer_game?utm_source=chatgpt.com "wirelessr/beer_game - GitHub"
+
+| Name & Link | Ease of Setup (0–5) | Educational Usefulness (0–5) | Multiplayer | Tech Stack |
+|-------------|---------------------|------------------------------|-------------|------------|
+| [Transentis Beer Game](https://github.com/transentis/beergame) | 3 | 5 | No | Python, Jupyter, BPTK |
+| [Jordanow's Beer Game](https://github.com/jordanow/Beer-Game) | 4 | 4 | Yes | MeteorJS, JavaScript |
+| [Otmanesabir's Beer Game](https://github.com/otmanesabir/BeerGame) | 2 | 3 | No | C++ |
+| [MironV's Beer Distribution Game](https://github.com/MironV/beerdistribution) | 4 | 4 | Yes | Node.js, Socket.io |
+| [Drishti-M's Beer Game](https://github.com/drishti-m/BeerGame) | 5 | 3 | Yes | JavaScript, HTML |
+| [AYUSH477's Beer Game](https://github.com/AYUSH477/Beer-game) | 2 | 3 | Yes (LAN) | Java |
+| [DeanBeer's Beer Distribution Game](https://github.com/DeanBeer/beer-distribution-game) | 2 | 2 | No | JavaScript |
+| [Richel Bilderbeek's Beer Simulator](https://github.com/richelbilderbeek/beer_sim) | 2 | 2 | No | C++ |
+| [MartinMxn's Beer Game](https://github.com/MartinMxn/Beer-game) | 3 | 3 | Yes | Python |
+| [Wirelessr's Beer Game](https://github.com/wirelessr/beer_game) | 3 | 4 | Yes | Node.js |
